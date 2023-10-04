@@ -1,0 +1,11 @@
+1- Ambiente de simulação
+	- Máquina
+	- Software/Libs
+
+2- Resultados
+	- Valores e velocidades obtidos
+	- Tabelas e explicação
+
+3- Git do código
+
+4- Conclusão
